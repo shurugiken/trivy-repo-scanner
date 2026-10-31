@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.test-tmp/
+out/
+*.log
+verified-tools/
+repositories.json
+*.sigstore.json
